@@ -1,0 +1,9 @@
+{
+  "name": "core-engine",
+  "version": "0.1.0",
+  "dependencies": [
+    "spdlog",
+    "nlohmann-json",
+    "catch2"
+  ]
+}
